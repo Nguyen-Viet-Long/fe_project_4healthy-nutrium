@@ -21,8 +21,8 @@ function SelectionCategories() {
             label: "Cơm",
           },
           {
-            value: "Phở",
-            label: "Phở",
+            value: "Hạ",
+            label: "Lucy",
           },
           {
             value: "Thịt",

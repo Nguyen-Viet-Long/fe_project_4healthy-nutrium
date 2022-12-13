@@ -21,8 +21,8 @@ function SelectionFoods() {
             label: "Cơm",
           },
           {
-            value: "Rau",
-            label: "Rau",
+            value: "Hạ",
+            label: "Lucy",
           },
           {
             value: "Thịt",
