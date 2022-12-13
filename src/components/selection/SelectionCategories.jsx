@@ -22,7 +22,7 @@ function SelectionCategories() {
           },
           {
             value: "Hạ",
-            label: "Lucy",
+            label: "Hạ",
           },
           {
             value: "Thu",
