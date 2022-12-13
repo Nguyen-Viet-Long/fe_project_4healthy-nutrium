@@ -21,7 +21,7 @@ function SelectionSeasonIngredient() {
           },
           {
             value: "Hạ",
-            label: "Lucy",
+            label: "Hạ",
           },
           {
             value: "Thu",

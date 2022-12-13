@@ -22,7 +22,7 @@ function SelectionFoods() {
           },
           {
             value: "Hạ",
-            label: "Lucy",
+            label: "Hạ",
           },
           {
             value: "Thu",

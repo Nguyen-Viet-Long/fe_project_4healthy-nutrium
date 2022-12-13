@@ -10,27 +10,23 @@ function SelectionMealtypeFoodFilter() {
     <>
       <div> Lọc theo bữa ăn</div>
       <Select
-        defaultValue="Xuân"
+        defaultValue="Bữa sáng"
         style={{
           width: 300,
         }}
         onChange={handleChange}
         options={[
           {
-            value: "Xuân",
-            label: "Xuân",
+            value: "Bữa sáng",
+            label: "Bữa sáng",
           },
           {
-            value: "Hạ",
-            label: "Lucy",
+            value: "Bữa trưa",
+            label: "Bữa trưa",
           },
           {
-            value: "Thu",
-            label: "Thu",
-          },
-          {
-            value: "Đông",
-            label: "Đông",
+            value: "Bữa tối",
+            label: "Bữa tối",
           },
         ]}
       />
