@@ -10,27 +10,27 @@ function SelectionCategories() {
     <>
       <div>Lọc theo loại món ăn</div>
       <Select
-        defaultValue="Xuân"
+        defaultValue="Cơm"
         style={{
           width: 300,
         }}
         onChange={handleChange}
         options={[
           {
-            value: "Xuân",
-            label: "Xuân",
+            value: "Cơm",
+            label: "Cơm",
           },
           {
-            value: "Hạ",
-            label: "Hạ",
+            value: "Phở",
+            label: "Phở",
           },
           {
-            value: "Thu",
-            label: "Thu",
+            value: "Thịt",
+            label: "Thịt",
           },
           {
-            value: "Đông",
-            label: "Đông",
+            value: "Rau",
+            label: "Rau",
           },
         ]}
       />
